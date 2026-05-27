@@ -7,9 +7,6 @@ A collection of beginner Python projects and practice programs made while learni
 - Typing Speed Tester
 - Basic Calculator
 - File Organizer
-- Python Function Practice
-- List and Tuple Practice
-- Decorator Practice
 
 ## Concepts Practiced
 
