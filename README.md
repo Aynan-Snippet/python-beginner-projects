@@ -7,6 +7,7 @@ A collection of beginner Python projects and practice programs made while learni
 - Typing Speed Tester
 - Basic Calculator
 - File Organizer
+- Log Analyzer
 
 ## Concepts Practiced
 
@@ -18,6 +19,7 @@ A collection of beginner Python projects and practice programs made while learni
 - Decorators
 - File Handling
 - Modules
+- Regex
 
 ## Goal
 
