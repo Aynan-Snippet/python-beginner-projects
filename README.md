@@ -20,6 +20,7 @@ A collection of beginner Python projects and practice programs made while learni
 - File Handling
 - Modules
 - Regex
+- Pip
 
 ## Goal
 
