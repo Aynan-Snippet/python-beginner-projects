@@ -8,6 +8,7 @@ A collection of beginner Python projects and practice programs made while learni
 - Basic Calculator
 - File Organizer
 - Log Analyzer
+- User Login Treacker
 
 ## Concepts Practiced
 
