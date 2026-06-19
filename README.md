@@ -22,6 +22,7 @@ A collection of beginner Python projects and practice programs made while learni
 - Modules
 - Regex
 - Pip
+- Json
 
 ## Goal
 
