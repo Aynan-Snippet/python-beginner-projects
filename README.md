@@ -13,6 +13,7 @@ A collection of beginner Python projects and practice programs made while learni
 ## Concepts Practiced
 
 - Variables
+- Arrays
 - Loops
 - Functions
 - Lists & Tuples
@@ -24,6 +25,7 @@ A collection of beginner Python projects and practice programs made while learni
 - Pip
 - Json
 - Dictionaries
+  
 
 ## Goal
 
