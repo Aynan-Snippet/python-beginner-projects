@@ -26,6 +26,7 @@ A collection of beginner Python projects and practice programs made while learni
 - Pip
 - Json
 - Dictionaries
+- Math
   
 
 ## Goal
