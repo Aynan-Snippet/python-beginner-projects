@@ -14,6 +14,7 @@ A collection of beginner Python projects and practice programs made while learni
 
 - Variables
 - Arrays
+- Sets
 - Loops
 - Iterators
 - Functions
